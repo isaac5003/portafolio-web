@@ -2,7 +2,7 @@
   <div>
     <b-navbar toggleable="lg" type="dark" style="background-color: #563d7c">
       <b-navbar-brand>
-        <img src="../assets/img/front-end-logo.png" alt="" />
+        <img src="../assets/img/logo-menu.png" alt="" />
       </b-navbar-brand>
       <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
       <b-collapse id="nav-collapse" is-nav>
