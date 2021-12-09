@@ -10,7 +10,7 @@
           <b-nav-item active href="#">Home</b-nav-item>
           <b-nav-item href="#">About</b-nav-item>
           <b-nav-item href="#">Works</b-nav-item>
-          <b-nav-item href="#">Contact</b-nav-item>
+          <b-nav-item href="#">Contact me</b-nav-item>
         </b-navbar-nav>
       </b-collapse>
     </b-navbar>
